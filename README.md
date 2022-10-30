@@ -1,2 +1,2 @@
 # nozelrepo.github.io
-Özel
+D
